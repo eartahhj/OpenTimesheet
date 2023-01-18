@@ -1,4 +1,4 @@
-# differentTimesheet
+# OpenTimesheet
  PHP experimental Timesheet software (not ready to deploy)
 
 # Warning
@@ -9,4 +9,4 @@ This can be included in differentCRM to have a CRM and Timesheet software togeth
 
 # Preview screenshot
 A screenshot to display how the Timesheet looks like
-![Interface screenshot](./differentTimesheet-screenshot1.png)
+![Interface screenshot](./OpenTimesheet-screenshot1.png)
